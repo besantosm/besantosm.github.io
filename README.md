@@ -9,6 +9,6 @@ luego agregue unas cards con diseno responsive como blog para que el visitante p
 luego agregue una galeria de imagenes pero quise poner un modal para que cuando se de cliq se abra la imagen pero no logre hacer que esto funcionara agradeceria mucho los comentarios con esta seccion
 trate de utilizar js con mi header para el responsive el cual espero que funcione
 
-por ultimo agregue un pequeno footer con la informacion necesaria de mi pagina ocupando bootstrap
+por ultimo agregue un pequeno footer con la informacion necesaria de mi pagina ocupando bootstrap y otros elementos
  main
 -->
