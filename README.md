@@ -1,5 +1,5 @@
 ### Hi there 👋
-!(prototipo foto)[./assets/images/181010-FORM-PROFESORADO-UPO.004.jpeg]
+![prototipo foto](./assets/images/181010-FORM-PROFESORADO-UPO.004.jpeg)
 <!--
 En este repositorio he tratado la manera de poder poner en practica todo lo que hemos visto en el ultimo mes, se me ha sido un poco dificil poder entregar un diseno 100 bonito pero espero que cumpla con los requisitos
 
